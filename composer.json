@@ -1,0 +1,8 @@
+{
+	"name":"estoque/producao",
+	"autoload":{
+		"psr-4":{
+			"App\\":"app/"
+		}
+	}
+}
